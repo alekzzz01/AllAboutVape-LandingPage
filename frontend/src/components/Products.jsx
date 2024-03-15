@@ -3,7 +3,7 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
-import Sample from '../images/GIFPRODUCTS/SampleVideo.gif';
+import Sample from '../images/GIFPRODUCTS/FlavaBlackOxbar.gif';
 import gif1 from '../images/GIFPRODUCTS/FLAVABLACKOXBAR1.gif';
 import gif2 from '../images/GIFPRODUCTS/FlavaBlackOxbar.gif';
 import gif3 from '../images/GIFPRODUCTS/FlavaBlackOxbar.gif';
