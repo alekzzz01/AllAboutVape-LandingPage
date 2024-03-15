@@ -6,8 +6,8 @@ import 'slick-carousel/slick/slick-theme.css';
 import Sample from '../images/GIFPRODUCTS/SampleVideo.gif';
 import gif1 from '../images/GIFPRODUCTS/FLAVABLACKOXBAR1.gif';
 import gif2 from '../images/GIFPRODUCTS/FlavaBlackOxbar.gif';
-import gif3 from '../images/GIFPRODUCTS/VIDEO FLAVA FRIOBAR V1 9500.gif';
-import gif4 from '../images/GIFPRODUCTS/VIDEO FLAVA FRIOBAR V2.gif';
+import gif3 from '../images/GIFPRODUCTS/FlavaBlackOxbar.gif';
+import gif4 from '../images/GIFPRODUCTS/FlavaBlackOxbar.gif';
 
 
 // Array of products with brand, description, and GIF
